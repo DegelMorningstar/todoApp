@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!--  textos onboarding  -->
+    <string name="title_onboarding">HAZLO MAS SIMPLE</string>
+    <string name="description_onboarding">Anota tus pendientes y controla tus actividades</string>
+    <string name="btn_comenzar">Comenzar</string>
+</resources>
